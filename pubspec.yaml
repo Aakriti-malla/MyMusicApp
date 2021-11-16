@@ -65,9 +65,11 @@ flutter:
     - assets/Formula.mp3
     - assets/go_with_u.mp3
     - assets/Good_Days.mp3
-    - assets/euphoria.jfif
-    - assets/eastside.jfif
-    - assets/gowithu.jfif
+    - assets/Mystery_of_Love.mp3
+    - assets/euphoria.jpeg
+    - assets/eastside.jpg
+    - assets/gowithu.jpg
+    - assets/gooddays.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
